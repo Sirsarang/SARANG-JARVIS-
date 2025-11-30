@@ -83,6 +83,7 @@ pip install -r requirements.txt
 
 # 5️⃣ Run Jarvis AI
 python main.py
+---
 
 
 🖥 Usage Instructions
@@ -101,7 +102,7 @@ jarvis quit	Exits Jarvis AI
 ⚠️ Update paths for music and apps based on your system.
 
 
----
+
 
 
 JarvisAI/
@@ -113,7 +114,7 @@ JarvisAI/
 ├── assets/                  # Screenshots, GIFs, icons
 └── README.md                # Project documentation
 
----
+
 
 
 ## 👤 Author
