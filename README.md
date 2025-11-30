@@ -102,13 +102,8 @@ jarvis quit	Exits Jarvis AI
 
 
 ---
-## 💻 Installation Guide
 
-## 📂 Project Structure
 
-Below is the complete structure of the **JarvisAI** project:
-
-```text
 JarvisAI/
 │
 ├── main.py                  # Core voice assistant script
@@ -119,11 +114,12 @@ JarvisAI/
 └── README.md                # Project documentation
 
 ---
-## 💻 Installation Guide
+
 
 ## 👤 Author
 
 **SARANG ANUPAM**  
 
 *"Jarvis AI – Your personal assistant for productivity, learning, and fun!"*
+
 
