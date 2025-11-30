@@ -83,6 +83,7 @@ pip install -r requirements.txt
 
 # 5️⃣ Run Jarvis AI
 python main.py
+```
 ---
 
 
@@ -122,5 +123,3 @@ JarvisAI/
 **SARANG ANUPAM**  
 
 *"Jarvis AI – Your personal assistant for productivity, learning, and fun!"*
-
-
