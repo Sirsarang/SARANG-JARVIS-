@@ -101,6 +101,8 @@ jarvis quit	Exits Jarvis AI
 ⚠️ Update paths for music and apps based on your system.
 
 
+---
+## 💻 Installation Guide
 
 ## 📂 Project Structure
 
@@ -116,6 +118,8 @@ JarvisAI/
 ├── assets/                  # Screenshots, GIFs, icons
 └── README.md                # Project documentation
 
+---
+## 💻 Installation Guide
 
 ## 👤 Author
 
