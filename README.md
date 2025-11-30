@@ -56,36 +56,25 @@ Jarvis runs on macOS using the `say` command for voice output and is **extensibl
 
 ---
 
-## 💻 Installation Guide
-
-### 1️⃣ Clone the Repository
-
-```bash
+💻 Installation Guide
+1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/JarvisAI.git
 cd JarvisAI
-
-## 2️⃣ Create Virtual Environment
-
+2️⃣ Create Virtual Environment
 python3 -m venv .venv
-source .venv/bin/activate   # Mac/Linux
-.venv\Scripts\activate      # Windows
-
-
-### 3️⃣ Install Dependencies
+# Activate the environment:
+# Mac/Linux
+source .venv/bin/activate
+# Windows
+.venv\Scripts\activate
+3️⃣ Install Dependencies
 pip install -r requirements.txt
-
-### 4️⃣ Add OpenAI API Key
-# config.py
+4️⃣ Add OpenAI API Key
+Create a config.py file and add your key:
 apikey = "YOUR_OPENAI_API_KEY"
-
-### 5️⃣ Run Jarvis AI
+5️⃣ Run Jarvis AI
 python main.py
-
-
----
-
-
-## 🖥 Usage Instructions
+🖥 Usage Instructions
 Speak or type commands into Jarvis:
 Command	Action
 open youtube	Opens YouTube in browser
@@ -99,8 +88,7 @@ using artificial intelligence	Saves AI response to a file
 reset chat	Clears conversation history
 jarvis quit	Exits Jarvis AI
 ⚠️ Update paths for music and apps based on your system.
-
-## 📂 Project Structure
+📂 Project Structure
 JarvisAI/
 │
 ├── main.py                  # Core voice assistant script
@@ -109,4 +97,3 @@ JarvisAI/
 ├── Openai/                  # Folder for AI-generated text files
 ├── assets/                  # Screenshots, GIFs, icons
 └── README.md                # Project documentation
-
