@@ -82,6 +82,9 @@ apikey = "YOUR_OPENAI_API_KEY"
 python main.py
 
 
+---
+
+
 ## 🖥 Usage Instructions
 Speak or type commands into Jarvis:
 Command	Action
