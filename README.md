@@ -87,21 +87,24 @@ python main.py
 ---
 
 
-🖥 Usage Instructions
-Speak or type commands into Jarvis:
-Command	Action
-open youtube	Opens YouTube in browser
-open google	Opens Google in browser
-open wikipedia	Opens Wikipedia in browser
-open music	Plays your local music file
-the time	Announces current time
-open facetime	Opens FaceTime app
-open pass	Opens Passky app
-using artificial intelligence	Saves AI response to a file
-reset chat	Clears conversation history
-jarvis quit	Exits Jarvis AI
-⚠️ Update paths for music and apps based on your system.
+## 🖥 Usage Instructions
 
+- Speak or type commands into Jarvis:
+- Command	Action
+- Open youtube
+- Opens YouTube in browser
+- Open google	Opens Google in browser
+- Open wikipedia	Opens Wikipedia in browser
+- Open music	Plays your local music file
+- The time	Announces current time
+- Open facetime	Opens FaceTime app
+- Open pass	Opens Passky app
+- Using artificial intelligence	Saves AI response to a file
+- Reset chat	Clears conversation history
+- Jarvis quit	Exits Jarvis AI
+  
+⚠️ Update paths for music and apps based on your system.
+---
 
 
 
