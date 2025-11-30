@@ -2,6 +2,7 @@
 An intelligent AI-powered voice assistant built with Python and OpenAI’s GPT models. Jarvis can chat, open websites and apps, play music, tell the time, and save AI-generated responses to files. Designed to be modular, scalable, and extendable.
 
 
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 
 
